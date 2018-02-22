@@ -1,0 +1,6 @@
+C:\Users\dipamajumdar\source\repos\ProductInventoryClass\ProductInventoryClass\bin\Debug\ProductInventoryClass.dll
+C:\Users\dipamajumdar\source\repos\ProductInventoryClass\ProductInventoryClass\bin\Debug\ProductInventoryClass.pdb
+C:\Users\dipamajumdar\source\repos\ProductInventoryClass\ProductInventoryClass\obj\Debug\ProductInventoryClass.csprojResolveAssemblyReference.cache
+C:\Users\dipamajumdar\source\repos\ProductInventoryClass\ProductInventoryClass\obj\Debug\ProductInventoryClass.csproj.CoreCompileInputs.cache
+C:\Users\dipamajumdar\source\repos\ProductInventoryClass\ProductInventoryClass\obj\Debug\ProductInventoryClass.dll
+C:\Users\dipamajumdar\source\repos\ProductInventoryClass\ProductInventoryClass\obj\Debug\ProductInventoryClass.pdb

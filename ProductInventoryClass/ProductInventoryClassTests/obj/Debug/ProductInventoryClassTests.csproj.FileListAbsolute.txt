@@ -1,0 +1,15 @@
+C:\Users\dipamajumdar\source\repos\ProductInventoryClass\ProductInventoryClassTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\dipamajumdar\source\repos\ProductInventoryClass\ProductInventoryClassTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\dipamajumdar\source\repos\ProductInventoryClass\ProductInventoryClassTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\dipamajumdar\source\repos\ProductInventoryClass\ProductInventoryClassTests\bin\Debug\ProductInventoryClassTests.dll
+C:\Users\dipamajumdar\source\repos\ProductInventoryClass\ProductInventoryClassTests\bin\Debug\ProductInventoryClassTests.pdb
+C:\Users\dipamajumdar\source\repos\ProductInventoryClass\ProductInventoryClassTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\dipamajumdar\source\repos\ProductInventoryClass\ProductInventoryClassTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\dipamajumdar\source\repos\ProductInventoryClass\ProductInventoryClassTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\dipamajumdar\source\repos\ProductInventoryClass\ProductInventoryClassTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\dipamajumdar\source\repos\ProductInventoryClass\ProductInventoryClassTests\obj\Debug\ProductInventoryClassTests.csprojResolveAssemblyReference.cache
+C:\Users\dipamajumdar\source\repos\ProductInventoryClass\ProductInventoryClassTests\obj\Debug\ProductInventoryClassTests.csproj.CoreCompileInputs.cache
+C:\Users\dipamajumdar\source\repos\ProductInventoryClass\ProductInventoryClassTests\obj\Debug\ProductInventoryClassTests.dll
+C:\Users\dipamajumdar\source\repos\ProductInventoryClass\ProductInventoryClassTests\obj\Debug\ProductInventoryClassTests.pdb
+C:\Users\dipamajumdar\source\repos\ProductInventoryClass\ProductInventoryClassTests\bin\Debug\ProductInventoryClass.dll
+C:\Users\dipamajumdar\source\repos\ProductInventoryClass\ProductInventoryClassTests\bin\Debug\ProductInventoryClass.pdb
